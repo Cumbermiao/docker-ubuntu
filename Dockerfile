@@ -1,4 +1,4 @@
-FROM ubuntu:18.04
+FROM ubuntu:20.04
 LABEL version="0.1"
 LABEL author="cumbermiao@163.com"
 
