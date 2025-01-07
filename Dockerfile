@@ -19,4 +19,4 @@ ADD run.sh /run.sh
 RUN chmod 755 /run.sh
 
 EXPOSE 22
-CMD [ "/run.sh" ]
+CMD [ "/bin/bash", "/run.sh" ]
